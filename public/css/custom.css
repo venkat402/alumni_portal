@@ -1,0 +1,20 @@
+#side-nav{
+    background-image: url("../img/Home.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+#side-nav-overlay{
+    background-color: rgba(11, 46, 19,.6);
+    height: 100vh;
+}
+#admin-link{
+    height: 50px;
+    width: 100% !important;
+    font-size: 18px !important;
+    padding-top: 10px;
+}
+.link2{
+    margin-top: 5px !important;
+}
